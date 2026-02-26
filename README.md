@@ -56,6 +56,6 @@ Pagination
 This project is open-source and free to use for educational purposes.
 
 Screenshots : Home Page
-<img width="1911" height="749" alt="image" src="https://github.com/user-attachments/assets/56cba935-0eb7-472b-86b4-ce7158600dd0" />
+<img width="1911" height="749" alt="image" src="https://github.com/user-attachments/assets/56cba935-0eb7-472b-86b4-ce7158600dd0" /> 
 1. Add Book Page
-<img width="1910" height="583" alt="image" src="https://github.com/user-attachments/assets/5be49cd8-2c5f-4220-83e6-47be6759fa3f" />
+<img width="1910" height="583" alt="image" src="https://github.com/user-attachments/assets/5be49cd8-2c5f-4220-83e6-47be6759fa3f" /> 
